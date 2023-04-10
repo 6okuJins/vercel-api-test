@@ -1,0 +1,36 @@
+{
+  "faq": [
+    {
+      "header": "Do you send the same professional house cleaners each time?",
+      "body": "We do our best to send the same house cleaner to your home for a recurring cleaning service. If certain cleaners are unavailable, we make sure that your appointment is honored with another cleaner."
+    },
+    {
+      "header": "How do the cleaners gain access to my home if I am at work?",
+      "body": "Just let us know your preference! We are also happy to access a lockbox or obtain keys from the front desk of your building when given permission."
+    },
+    {
+      "header": "Do you perform move-in or move-out cleanings?",
+      "body": "We do indeed! We recommend a deep cleaning service for move ins and move outs."
+    },
+    {
+      "header": "Are recurring cleaning services better for me?",
+      "body": "Regular, recurring home cleaning services are truly better for your stress level. With our recurring standard cleaning services, we aim to provide an incredible peace of mind, as the more often your Scrub-a-Tub cleaner cleans, the more familiar they are with your home and preferences."
+    },
+    {
+      "header": "How many maids or house cleaners can I expect?",
+      "body": "We usually assign 1-2 cleaners per job. For deep clean jobs or jobs values $350 or more, we can make arrangements to send a team of 2 or 3 depending on the dynamics of the job."
+    },
+    {
+      "header": "How do you accept payment for cleaning services?",
+      "body": "We accept all major credit cards, Interac E-transfers, and cash as payment."
+    },
+    {
+      "header": "Why do you take a deposit?",
+      "body": "Because we organize and coordinate all of our appointments ahead of time, we take a deposit in case of a cancellation. We expect at least a 24-hour notice for cancellations in order to get half of your deposit refunded. If you fail to cancel within 24 hours, you will not receive a refund."
+    },
+    {
+      "header": "Do you clean tile, grout, or bathroom mold?",
+      "body": "We do clean tile grout with the process of steaming, which we offer as an add-on service. For health concerns ,we do not clean away bathroom mold. A mold removal specialist would be better equipped for this service, and they can provide assurance that the mold will be safely and surely taken care of."
+    }
+  ]
+}
